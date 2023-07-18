@@ -9,5 +9,8 @@ package com.mycompany.praktek01;
  * @author User
  */
 public class MahasiswaAksi {
-    
+    public static void main(String[] args){
+        Mahasiswa Harry = new Mahasiswa ();
+    }
+        
 }
